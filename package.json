@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Damir2805/b4npm/issues"
   },
-  "homepage": "https://github.com/Damir2805/b4npm#readme"
+  "homepage": "https://github.com/Damir2805/b4npm#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
